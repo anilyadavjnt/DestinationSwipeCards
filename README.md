@@ -13,14 +13,14 @@ A Tinder-style swipe card interface built using Swift and UIKit. Users can swipe
 * 💫 Smooth animations and rotation effects
   
 🛠 Tech Stack
-Swift
-UIKit
-Auto Layout
-XIB
-UIView Animation
-UIPanGestureRecognizer
-Delegate Pattern
-Custom UI Components
+* Swift
+* UIKit
+* Auto Layout
+* XIB
+* UIView Animation
+* UIPanGestureRecognizer
+* Delegate Pattern
+* Custom UI Components
 
 
 
