@@ -2,7 +2,7 @@
 
 A Tinder-style swipe card interface built using Swift and UIKit. Users can swipe destination cards left or right with smooth animations and interactive gestures.
 
-✨ Features
+✨ Features:-
 * 🃏 Tinder-like swipe cards
 * 👆 Pan Gesture Recognizer for dragging cards
 * 🎯 Left & Right swipe detection
