@@ -1,6 +1,7 @@
 🚀 DestinationSwipeCards (iOS UIKit)
 
-A Tinder-style swipe card interface built using Swift and UIKit. Users can swipe destination cards left or right with smooth animations and interactive gestures.
+A Tinder-style swipe card interface built using Swift and UIKit. 
+Users can swipe destination cards left or right with smooth animations and interactive gestures.
 
 ✨ Features:-
 * 🃏 Tinder-like swipe cards
