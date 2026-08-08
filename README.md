@@ -14,7 +14,7 @@ Users can swipe destination cards left or right with smooth animations and inter
 * 📚 Delegate pattern for swipe callbacks
 * 💫 Smooth animations and rotation effects
   
-🛠 Tech Stack
+🛠 Tech Stack:-
 * Swift
 * UIKit
 * Auto Layout
