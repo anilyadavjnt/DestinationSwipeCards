@@ -134,3 +134,4 @@ iOS Developer | Swift | UIKit | REST APIs | Firebase
 ## ⭐ Support
 
 If you find this project useful or interesting, consider giving the repository a ⭐ on GitHub.
+
